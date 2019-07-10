@@ -4,8 +4,6 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compartible" content="IE=edge">
-        <meta name="viewpoint" content="width=device-width, initial-scale=1">
         <title>Task Lists</title>
         <link rel="stylesheet" href="<c:url value='/css/reset.css' />">
         <link rel="stylesheet" href="<c:url value='/css/style.css' />">
